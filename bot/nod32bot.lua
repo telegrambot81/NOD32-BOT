@@ -317,7 +317,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: ...
 
 ]],
     help_text = [[
@@ -518,7 +518,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel:...
+channel: ...
 
 G00D LUCK ^_^
 ]]
