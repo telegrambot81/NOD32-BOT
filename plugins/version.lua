@@ -2,13 +2,6 @@ do
 
 function run(msg, matches)
   return 'kingbot v2'.. VERSION .. [[ 
- 
-  Developer :....
-  
-  Channel : ....
-  
-  Open git : ....
-  
  kingbot VERSION 2
   
   All rights reserved.
