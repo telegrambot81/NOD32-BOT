@@ -321,7 +321,7 @@ ch: ...
 
 ]],
     help_text = [[
-NOD32 Commands list :
+bot Commands list :
  
 1-banhammer list ^
  
