@@ -425,15 +425,15 @@ bot Commands list :
 !lock chat
 قفل چت ممنوع گروه
 
-!antibot enable 
+!lock bots
 ورود ربات ها ممنوع
 
-!antibot disable
+!unlock bots
 ورود ربات ها ازاد
 
 !unlock xxxx
 [*name*leave*member]
-[*fosh*ads]
+[*fosh*ads*bots]
 [chat*join*photo]
 باز کردن دستورات قفل شده
 
@@ -518,9 +518,9 @@ bot Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: ...
+channel: @anti_spamb_bot
 
-G00D LUCK ^_^
+*_*
 ]]
    }
   serialize_to_file(config, './data/config.lua')
