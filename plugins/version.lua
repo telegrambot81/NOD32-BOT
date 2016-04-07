@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'kingbot v2'.. VERSION .. [[ 
+  return 'kingbot v'.. VERSION .. [[ 
  kingbot VERSION 2
   
   All rights reserved.
