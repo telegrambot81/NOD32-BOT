@@ -518,7 +518,7 @@ bot Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @anti_spamb_bot
+channel: @kingbot_team
 
 *_*
 ]]
